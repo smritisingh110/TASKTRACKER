@@ -1,6 +1,6 @@
 # Task Tracker CLI
 
-**Project URL:** https://github.com/smritisingh110/TASKTRACKER
+**Project URL:** https://roadmap.sh/projects/task-tracker
 
 A simple command-line interface (CLI) application built in Java to track and manage your tasks. This project helps you practice programming skills including working with the filesystem, handling user inputs, and building a simple CLI application.
 
